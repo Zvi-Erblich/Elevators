@@ -1,0 +1,19 @@
+
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/building.ts",
+    "src/floor.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
